@@ -51,8 +51,3 @@ main()
 
 
 
-
-
-""" Youtube tutorial video:
-    https://www.youtube.com/watch?v=sxFObRNriUg&ab_channel=AladdinPersson
-    Current location- 3:15"""
