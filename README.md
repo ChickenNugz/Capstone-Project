@@ -1,2 +1,4 @@
-# Capstone-Project
-This is my capstone project. This README File is in progress, right now I just have the file created so I can edit it later to be sufficient. The files I am uploading are also not the finished project, there is still some polish that needs to be done on them.
+# Cipher Encoder/Decoder
+Included are 2 ciphers used for encoding and decoding messages. The first file utilizes a monoalphabetic cipher, the Caesar Cipher, and the second implements a polyalphabetic cipher, the Vigenere Cipher. 
+
+With each cipher, once you run the program it will prompt the user for input. After receiving the input, the program will then encode or decode the message (depending on user input).
