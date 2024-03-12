@@ -6,6 +6,9 @@ index_then_letter = dict(zip(range(len(alphabet)), alphabet))
 
 
 def encrypt (message, key):
+
+    """Encodes the message by using the key to index each character."""
+    
     encrypted = ''
     split_message = [message[i:i + len(key)] for i in range(0, len(message), len(key))]
     #convert message to index and add the key
